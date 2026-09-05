@@ -1,0 +1,14 @@
+{
+"name": "epic-xi-client-assistant",
+"version": "1.0.0",
+"description": "EPIC XI TRUST-LINKS Telegram Client Assistant",
+"main": "index.js",
+"scripts": {
+"start": "node index.js"
+},
+"dependencies": {
+"dotenv": "^16.4.7",
+"express": "^4.21.2",
+"node-telegram-bot-api": "^0.66.0"
+}
+}
